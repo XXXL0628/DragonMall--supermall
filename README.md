@@ -1,4 +1,4 @@
-# dragonmall
+# DragonMall
 
 ## Project setup
 ```
